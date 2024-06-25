@@ -1,0 +1,24 @@
+.building-component {
+    background-image: url('/public/images/black-gradient.avif');
+    margin-top: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.inner-component{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    text-align: justify;
+    justify-content: center;
+    font-size: 1.4rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-items: center;
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 100px ;
+    color: white;
+}
+
